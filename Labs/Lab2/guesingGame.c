@@ -1,6 +1,6 @@
 /*
-Author: [Your Name]
-Student ID: [Your ID]
+Author: Jerry Yauti
+Student ID: 240166
 Date: March 20, 2026
 Unit: IS301 Structured Programming
 
