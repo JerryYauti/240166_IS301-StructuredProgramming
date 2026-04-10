@@ -1,4 +1,4 @@
-/*
+/*IS301 Lab1 Submission
     Lab 1 Activity - Customer Bill Program
     Developed by: Jerry Yauti
     Date: 03/03/2026
